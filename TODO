@@ -1,5 +1,4 @@
 ASAP:
-  - the_template: convert .txt -> .html
   - examples: convert .txt -> .html
   - style based on style/burning
 
