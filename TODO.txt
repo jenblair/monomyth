@@ -1,0 +1,18 @@
+ASAP:
+  - the_template: convert .txt -> .html
+  - examples: convert .txt -> .html
+  - style based on style/burning
+
+MEDIA:
+  - favicon.ico: bowling ball hitting pins
+  - wheel pic(s). use Keynote?
+
+PAGES:
+  - index: explain examples/ folder
+  - not_found: Mark It Zero? empty briefcase? Dude's car?
+
+STYLES:
+  - nav: capitalize, not uppercase
+  - color: translucent white boxes?
+  - color: red bold and strips
+  - color: link color?
