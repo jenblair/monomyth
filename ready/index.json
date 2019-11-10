@@ -1,19 +1,14 @@
 {
-  "base": "https://quarto.neocities.org/",
-  "copyright": "© Sam Kennerly 2019.",
-  "email": "quarto.sites@gmail.com",
+  "base": "https://monomyth.neocities.org/",
+  "copyright": "© Jen Blair and Sam Kennerly 2019.",
+  "email": "jenblair@gmail.com samkennerly@gmail.com",
   "favicon": "favicon.ico",
-  "homelink": "Quarto",
+  "homelink": "The Dude with a Thousand Faces",
   "icons": [
     [
       "GitHub",
       "media/icons/github.svg",
       "https://github.com/samkennerly/quarto/"
-    ],
-    [
-      "Gmail",
-      "media/icons/gmail.svg",
-      "mailto:quarto.sites@gmail.com"
     ],
     [
       "Neocities",
@@ -29,21 +24,17 @@
   "jscripts": [
 
   ],
-  "license": [
-    "https://creativecommons.org/licenses/by/4.0",
-    "Licensed under a CC BY 4.0 license."
-  ],
   "meta": {
-    "author": "Sam Kennerly",
-    "description": "Build websites with Python.",
-    "keywords": "html, css, lean web, python, static website, tidy"
+    "author": "Jen Blair, Sam Kennerly",
+    "description": "In bowling and comparative mythology, the monomyth is a template for tales and lore about a hero who goes on an adventure, runs into some things, and then comes home.",
+    "keywords": "monomyth, narratology, folklore, screenplay, hero, bowling, dude"
   },
-  "nextlink": "►►",
-  "prevlink": "◄◄",
+  "nextlink": "►",
+  "prevlink": "◄",
   "qlink": "Built by a Quarto.",
   "styles": [
     "style.css"
   ],
-  "title": "Quartos build websites.",
-  "updog": "⇪"
+  "title": "The Dude with a Thousand Faces.",
+  "updog": "reset"
 }
