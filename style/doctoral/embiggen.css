@@ -1,0 +1,81 @@
+/*
+Margin, padding, and size in relative units: em, rem, vh, etc.
+https://www.w3schools.com/css/css_units.asp
+*/
+:root {
+  --marge: .4rem auto;
+  --padme: .2rem .6rem;
+  --puffy: .4rem .8rem;
+}
+body {
+  margin: .5vh .5vw;
+  max-width: 99vw;
+  min-height: 99vh;
+  overflow-y: scroll;
+}
+body dd,
+body ol,
+body ul {
+  margin-left: 4vw;
+  padding-left: 0;
+}
+body summary {
+  padding: var(--padme);
+}
+/* embiggen main */
+main {
+  padding: var(--puffy);
+}
+main blockquote,
+main details,
+main pre {
+  margin: var(--marge);
+  overflow-x: auto;
+  padding: var(--puffy);
+}
+main dt,
+main figure,
+main .gallery,
+main hr,
+main iframe {
+  margin: var(--marge);
+}
+main table {
+  box-sizing: border-box;
+  margin: var(--marge);
+  overflow-x: auto;
+  padding: 0;
+  width: 100%;
+}
+main table td,
+main table th {
+  padding: var(--padme);
+}
+/* embiggen nav */
+nav,
+nav a {
+  padding: var(--padme);
+}
+nav a[rel="home"] {
+  margin: var(--marge);
+}
+nav details > details,
+nav summary ~ a {
+  margin-left: .4rem;
+}
+/* embiggen others */
+#icons {
+  padding: var(--padme);
+}
+#icons img {
+  box-sizing: border-box;
+  height: 2rem;
+  margin: 0 1rem;
+  width: 2rem;
+}
+#jump a {
+  padding: var(--puffy);
+}
+#klf {
+  padding: var(--puffy);
+}

@@ -1,0 +1,49 @@
+{
+  "base": "https://quarto.neocities.org/",
+  "copyright": "© Sam Kennerly 2019.",
+  "email": "quarto.sites@gmail.com",
+  "favicon": "favicon.ico",
+  "homelink": "Quarto",
+  "icons": [
+    [
+      "GitHub",
+      "media/icons/github.svg",
+      "https://github.com/samkennerly/quarto/"
+    ],
+    [
+      "Gmail",
+      "media/icons/gmail.svg",
+      "mailto:quarto.sites@gmail.com"
+    ],
+    [
+      "Neocities",
+      "media/icons/neocities.svg",
+      "https://neocities.org/site/quarto"
+    ],
+    [
+      "Twitter",
+      "media/icons/twitter.svg",
+      "https://twitter.com/quartosites/"
+    ]
+  ],
+  "jscripts": [
+
+  ],
+  "license": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "Licensed under a CC BY 4.0 license."
+  ],
+  "meta": {
+    "author": "Sam Kennerly",
+    "description": "Build websites with Python.",
+    "keywords": "html, css, lean web, python, static website, tidy"
+  },
+  "nextlink": "►►",
+  "prevlink": "◄◄",
+  "qlink": "Built by a Quarto.",
+  "styles": [
+    "style.css"
+  ],
+  "title": "Quartos build websites.",
+  "updog": "⇪"
+}

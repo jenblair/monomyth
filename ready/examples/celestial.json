@@ -1,0 +1,5 @@
+{
+  "meta": {"description": "Quarto style example: celestial"},
+  "styles": ["celestial.css"],
+  "title": "Celestial style"
+}

@@ -1,0 +1,5 @@
+{
+  "meta": {"description": "Quarto style example: doctoral"},
+  "styles": ["doctoral.css"],
+  "title": "Doctoral style"
+}
