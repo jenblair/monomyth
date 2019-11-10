@@ -1,0 +1,134 @@
+The Matrix
+Written and Directed by Lana and Lilly Wachowski
+
+# ACT I
+
+1 open frame:
+  - 1 A monochrome terminal appears while Trinity and Cypher discuss “The One.”
+  - 1 A log message appears with timestamp 1998-02-19 13:24:18.
+  - 2 Cops and agents raid a building and attempt to arrest Trinity. She escapes with kung fu and guns.
+  - 4 Trinity calls Morpheus for help on a mobile phone. He directs her to a nearby phone booth.
+
+5 set pins:
+  - 5 Police are shocked to see Trinity and Smith jump between rooftoops. “That’s impossible.”
+  - 6 Trinity finds the phone booth. Smith plows a garbage truck into the booth as Trinity runs to pick up the ringing phone.
+  - 6 Smith inspects the rubble; Trinity has vanished. The agents discuss “their next target” - someone named Neo.
+  - 7 Neo sleeps in his apartment. He wakes up to a message on his computer instructing him to “follow the white rabbit.”
+  - 8 A visitor knocks on Neo’s door. Neo gives him a floppy disk in exchange for money.
+
+10 throw hero:
+  - 10 The visitor’s girlfriend has a white rabbit tattoo. Neo follows her to a party.
+
+12 slide on ice:
+  - 12 Trinity finds Neo at the party and warns that he is in danger.
+  - 12 Neo commits thoughtcrime by asking Trinity about the Matrix.
+  - 12 Neo (“Mr. Anderson”) is late to work and gets a lecture from his boss.
+  - 13 A courier brings Neo a package that contains a mobile phone, which rings.
+  - 14 Agents raid the office and Morpheus instructs Neo how to escape.
+  - 17 Neo loses the phone and is arrested by agents. Trinity watches and speeds away on a motorcycle.
+  - 17 Agents lecture Neo in an authority chamber.
+  - 20 Smith offers to "wipe the slate clean" of hacking crimes if Neo cooperates in locating Morpheus.
+  - 20 Neo offers Smith an unsporting gesture.
+  - 20 Neo’s mouth seals shut as Smith leers. Agents insert a tracker bug into Neo’s guts.
+  - 22 Neo wakes up at home. Morpheus calls and directs him to a meeting point.
+  - 23 Trinity and crew pick up Neo.
+
+25 roll on rug:
+  - 25 Trinity and Switch hold Neo down and remove a bug from his abdomen. Neo is shocked to learn that the bug is real.
+  - 26 The crew takes Neo to meet Morpheus in an abandoned building. They discuss the Matrix.
+  - 29 Morpheus offers Neo a choice: he must take either a red pill or a blue pill.
+  - 30 Neo takes a red pill and begins his transition.
+  - 32 Neo's body is rapidly transformed into a mysterious substance.
+
+# ACT II
+
+30 fall into pit:
+  - 33 Neo wakes up, gasping and covered in cables, in his goo pod.
+  - 34 A tentaclebot grabs Neo, unplugs him, and flushes him into a dark pool of water.
+  - 35 A mechanical claw lifts Neo into the Nebuchadnezzar, where Morpheus and crew welcome him.
+  - 36 The crew care for Neo as he heals.
+
+40 look under hood:
+  - 38 Morpheus tells Neo he is actually in the far future and shows him around the ship.
+  - 39 Morpheus plugs Neo into a training program and explains the Matrix in a simulated room.
+
+50 gaze into void:
+  - 44 Neo freaks out and the crew unplug him.
+  - 45 Neo talks to Morpheus and realizes there is no way back. Morpheus explains “The One.”
+  - 47 Tank trains Neo in the simulator.
+
+55 bounce hero:
+  - 49 Neo fights Morpheus in the sparring program. Neo is effective. The crew are excited.
+  - 55 Neo attempts to jump between rooftoops. He falls and bounces.
+  - 55 Crew are disappointed by Neo's unexceptional performance.
+  - 55 Neo wakes up injured. He learns that injury and death in the Matrix can mean the same in the real world.
+  - 56 Neo rests and Trinity brings him food. Cypher raises doubts about Neo.
+  - 57 Neo and Morpheus re-enter the simulator. Neo learns about agents.
+
+60 enter tunnel:
+  - 60 The Nebuchadnezzar is attacked by a Sentinel bot. The crew hide and survive.
+  - 61 Neo talks to Cypher about the Matrix over moonshine. Cypher doubts he is The One.
+  - 64 In the Matrix, Cypher makes a deal with Smith to turn over Morpheus (who has access codes to the Zion mainframe).
+  - 64 The crew eat sad provisions and bond.
+  - 67 Morpheus takes Neo to meet the Oracle in the real Matrix. The crew go with them.
+  - 71 Neo enters the Oracle’s lair and meets several “potential” children in the waiting room.
+  - 71 Neo tries to realize the truth: there is no spoon.
+
+75 meet source:
+  - 73 Neo meets the Oracle.
+  - 75 Oracle does not convince Neo that he is The One.
+  - 76 Oracle tells Neo he will have to choose between Morpheus’s life and his own. She gives him a cookie.
+  - 78 Neo and Morpheus meet the crew.
+  - 79 Neo sees an “again cat” - a glitch in the Matrix. Crew realize the Machines have discovered their location.
+  - 80 Mouse dies fighting off cops and agents.
+  - 81 With Tank’s help, the crew try to escape as agents close in.
+  - 82 Cypher coughs and gives their location away.
+  - 83 Smith attacks Neo while he hides in a wall. Morpheus counterattacks, crew escape.
+
+85 arrest hero:
+  - 85 Smith captures Morpheus and takes him into custody.
+  - 86 Cypher exits the Matrix and kills most of the crew.
+
+90 enlighten hero:
+  - 91 Tank, despite being shot with a death ray, kills Cypher. Tank pulls Neo and Trinity out of the Matrix.
+  - 92 Smith and agents torture Morpheus in an authority chamber.
+  - 94 Tank explains that agents are trying to obtain access codes for the Zion mainframe. Tank suggests pulling the plug on Morpheus and killing him first.
+  - 95 Smith deploys Sentinel bots to attack the Nebuchadnezzar.
+  - 95 Neo stops Tank from pulling the plug.
+  - 97 Neo believes he can rescue Morpheus and chooses to reenter the Matrix. Trinity chooses to go with him.
+
+# ACT III
+
+100 roll again:
+  - 98 Smith lectures Morpheus in the authority chamber.
+  - 99 Tank loads an armory program. Neo and Trinity take lots of guns.
+  - 99 Smith orders the other agents to leave him with Morpheus. They are surprised but obey.
+  - 100 Smith removes his earpiece and reveals he wants to become free of the Matrix. He gives Morpheus a choice: share the codes or die.
+  - 101 Neo and Trinity enter the government building where agents are holding Morpheus.
+  - 102 Neo and Trinity fight through building security and reach the elevator.
+  - 104 Agents walk in on Smith as he tortures Morpheus. They reveal that Neo is on the way.
+  - 104 Neo and Trinity arm a bomb in the elevator. They return the bomb to the lobby and ascend through the elevator shaft.
+  - 105 The building loses power. Smith orders agents to destroy Neo and Trinity.
+  - 106 Neo and Trinity fight a SWAT team and agents.
+  - 106 Neo and and an agent fire shots at each other. Both easily evade, though Neo is grazed.
+  - 107 Trinity shoots the agent from behind and tells Neo that no other human can move “like they do.”
+  - 108 Trinity downloads a helicopter pilot program. Neo and Trinity steal and use it to attack agents and rescue Morpheus.
+
+110 restore balance:
+  - 112 Neo rescues Trinity from the crashing helicopter. The crew believe Neo is The One.
+  - 113 Agents order a Sentinel strike.
+  - 113 The crew reach an exit point in a subway. Morpheus and Trinity exit.
+  - 114 Smith appears and fights Neo.
+  - 120 Neo throws Smith beneath a train and flees.
+  - 120 Sentinel bots attack the Nebuchadnezzar. Agents pursue Neo.
+  - 123 Smith corners Neo and shoots him.
+  - 124 Trinity confesses the Oracle told her she would fall in love with The One. She kisses and revives Neo.
+  - 124 Agents fire at Neo. He stops a wall of bullets.
+  - 125 Neo sees through the Matrix and believes he is The One.
+  - 126 Neo fights Smith and shatters him into pieces. Other agents flee.
+  - 128 Neo exits the Matrix as Morpheus fires electric pulse to defeat Sentinels.
+  - 128 Trinity kisses Neo.
+  - 129 A monochrome terminal appears. Neo tells the Machines that he will break kayfabe in front of the humans.
+
+120 fade out:
+  - 129 Neo hangs up a Matrix phone, exits a phone booth, and flies away.
