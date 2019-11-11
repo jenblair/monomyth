@@ -29,12 +29,12 @@
     "description": "In bowling and comparative mythology, the monomyth is a template for tales and lore about a hero who goes on an adventure, runs into some things, and then comes home.",
     "keywords": "monomyth, narratology, folklore, screenplay, hero, bowling, dude"
   },
-  "nextlink": "►",
-  "prevlink": "◄",
+  "nextlink": "next",
+  "prevlink": "last",
   "qlink": "Built by a Quarto.",
   "styles": [
     "style.css"
   ],
   "title": "The Dude with a Thousand Faces.",
-  "updog": "reset"
+  "updog": "top"
 }

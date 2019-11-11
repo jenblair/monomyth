@@ -43,8 +43,11 @@ nav summary {
   margin: .25rem .75rem;
   width: 1.5rem;
 }
-#jump a {
+#jump {
   padding: var(--padme);
+}
+#jump a {
+  margin: 0 1rem;
 }
 #klf {
   padding: var(--puffy);
