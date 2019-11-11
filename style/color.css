@@ -1,0 +1,87 @@
+/*
+Color coordination for all elements.
+https://www.w3schools.com/css/css_colors.asp
+*/
+:root {
+  --color-active: red;
+  --color-boxes: rgba(255,255,255,.9);
+  --color-link: sienna;
+  --color-text: black;
+  --text-shadow: 1px 1px 0 burlywood;
+  --transition: 451ms;
+}
+body {
+  background-color: navajowhite;
+  background-image: url("media/baltimorebowling.jpg");
+  background-position: center top;
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  color: var(--color-text);
+}
+body a,
+body a:link,
+body a:visited {
+  color: var(--color-link);
+}
+body a:focus,
+body a:hover,
+body a:active,
+body summary:focus,
+body summary:hover,
+body summary:active {
+  color: var(--color-active);
+  transition: var(--transition);
+}
+/* color main */
+main {
+  background: var(--color-boxes);
+  color: var(--color-text);
+}
+main b,
+main dfn,
+main dt,
+main strong {
+  color: var(--color-active);
+}
+main blockquote,
+main pre {
+  background: var(--color-boxes);
+}
+main h1,
+main h2,
+main h3,
+main h4,
+main h5,
+main h6 {
+  text-shadow: var(--text-shadow);
+}
+main mark {
+  background: none;
+  color: var(--color-active);
+}
+main table thead {
+  background: white;
+}
+main table tr:nth-child(odd) {
+  background: var(--color-boxes);
+  border-color: var(--color-text);
+}
+/* color nav */
+nav {
+  background: var(--color-boxes);
+}
+nav a {
+  border-color: transparent;
+}
+nav a[href="#"] {
+  color: var(--color-active);
+}
+/* color others */
+#icons,
+#jump,
+#klf {
+  background: var(--color-boxes);
+}
+#icons img {
+  background: white;
+}
