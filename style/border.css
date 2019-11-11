@@ -4,33 +4,35 @@ https://www.w3schools.com/css/css_border.asp
 */
 :root {
   --border: double;
-  --radius: 1em;
 }
 body a img,
 body details {
   border: var(--border);
 }
 /* border main */
+main,
 main blockquote,
-main figure {
-  border-top: var(--border);
-  border-bottom: var(--border);
-}
+main figure,
 main h1,
 main hr {
-  border: none;
   border-bottom: var(--border);
+  border-top: var(--border);
 }
 /* border nav */
-nav a {
-  border: var(--border);
-}
-nav details > details {
-  border: none;
+nav,
+nav a,
+nav details {
+  border-bottom: var(--border);
   border-top: var(--border);
 }
 /* border others */
+#icons,
+#jump,
+#klf {
+  border-bottom: var(--border);
+  border-top: var(--border);
+}
 #icons a img {
   border: var(--border);
-  border-radius: var(--radius);
+  border-radius: 1em;
 }
