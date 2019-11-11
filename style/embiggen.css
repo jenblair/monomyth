@@ -9,7 +9,7 @@ https://www.w3schools.com/css/css_units.asp
 }
 body {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 720px;
   min-height: 100vh;
   overflow-y: scroll;
 }

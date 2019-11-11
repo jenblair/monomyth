@@ -5,17 +5,19 @@ https://www.w3schools.com/css/css_colors.asp
 :root {
   --color-active: red;
   --color-boxes: rgba(255,255,255,.9);
-  --color-link: sienna;
+  --color-head: saddlebrown;
+  --color-link: maroon;
   --color-text: black;
-  --text-shadow: 1px 1px 0 burlywood;
+  --text-shadow: 0 1px 0 black;
   --transition: 451ms;
 }
 body {
+  background-blend-mode: luminosity;
   background-color: navajowhite;
   background-image: url("media/baltimorebowling.jpg");
   background-position: center top;
-  background-repeat: repeat-y;
-  background-size: 100% auto;
+  background-repeat: repeat;
+  background-size: auto;
   color: var(--color-text);
 }
 body a,
@@ -40,12 +42,15 @@ main {
 main b,
 main dfn,
 main dt,
+main mark,
 main strong {
+  background: none;
   color: var(--color-active);
 }
 main blockquote,
-main pre {
+main figure {
   background: var(--color-boxes);
+  border-color: var(--color-head);
 }
 main h1,
 main h2,
@@ -53,22 +58,14 @@ main h3,
 main h4,
 main h5,
 main h6 {
+  border-color: var(--color-head);
+  color: var(--color-head);
   text-shadow: var(--text-shadow);
-}
-main mark {
-  background: none;
-  color: var(--color-active);
-}
-main table thead {
-  background: white;
-}
-main table tr:nth-child(odd) {
-  background: var(--color-boxes);
-  border-color: var(--color-text);
 }
 /* color nav */
 nav {
   background: var(--color-boxes);
+  border-color: var(--color-head);
 }
 nav a {
   border-color: transparent;
@@ -77,11 +74,14 @@ nav a[href="#"] {
   color: var(--color-active);
 }
 /* color others */
-#icons,
-#jump,
-#klf {
+#icons {
   background: var(--color-boxes);
+  border-color: var(--color-head);
 }
 #icons img {
   background: white;
+}
+#jump,
+#klf {
+  background: var(--color-boxes);
 }
