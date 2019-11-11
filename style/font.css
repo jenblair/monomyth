@@ -15,9 +15,6 @@ html {
     font-size: 16px;
   }
 }
-body a {
-  text-decoration: none;
-}
 /* font main */
 main blockquote,
 main figure {
@@ -30,17 +27,22 @@ main strong {
   font-weight: bold;
 }
 /* font nav */
-nav a,
-nav summary {
+nav {
+  font-variant: small-caps;
   font-weight: bold;
   text-transform: capitalize;
 }
+nav a {
+  text-decoration: none;
+}
 nav a[rel="home"] {
-  font-size: 1.5rem;
+  font-size: 2rem;
+  line-height: 1;
+  text-transform: none;
 }
 /* font others */
-#jump {
-  font-size: 1rem;
+#jump a {
+  text-decoration: none;
 }
 #klf {
   font-size: .75rem;
