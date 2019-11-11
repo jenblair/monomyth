@@ -5,7 +5,7 @@ https://www.w3schools.com/css/css_units.asp
 :root {
   --marge: 1rem auto;
   --padme: .1rem .2rem;
-  --puffy: .5rem 1rem;
+  --puffy: .5rem 2rem;
 }
 body {
   margin: 0 auto;
@@ -18,29 +18,12 @@ main {
   padding: var(--puffy);
 }
 main blockquote,
-main details,
-main pre {
+main figure {
   margin: var(--marge);
-  overflow-x: auto;
   padding: var(--puffy);
 }
-main dt,
-main figure,
-main .gallery,
-main hr,
-main iframe {
+main dt {
   margin: var(--marge);
-}
-main table {
-  box-sizing: border-box;
-  margin: var(--marge);
-  overflow-x: auto;
-  padding: 0;
-  width: 100%;
-}
-main table td,
-main table th {
-  padding: var(--padme);
 }
 /* embiggen nav */
 nav,
@@ -61,7 +44,7 @@ nav summary {
   width: 1.5rem;
 }
 #jump a {
-  padding: var(--puffy);
+  padding: var(--padme);
 }
 #klf {
   padding: var(--puffy);

@@ -8,7 +8,7 @@ html {
   font-style: normal;
   font-variant: normal;
   font-weight: normal;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 @media all and (min-width: 800px) {
   html {
@@ -19,18 +19,14 @@ body a {
   text-decoration: none;
 }
 /* font main */
-main blockquote {
+main blockquote,
+main figure {
   font-family: Georgia, serif;
 }
 main b,
-main dfn,
 main dt,
-main strong,
-main summary {
+main strong {
   font-style: normal;
-  font-weight: bold;
-}
-main dl dt {
   font-weight: bold;
 }
 /* font nav */
@@ -43,6 +39,9 @@ nav a[rel="home"] {
   font-size: 1.5rem;
 }
 /* font others */
+#jump {
+  font-size: 1rem;
+}
 #klf {
   font-size: .75rem;
 }

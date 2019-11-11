@@ -4,12 +4,12 @@ https://www.w3schools.com/css/css_colors.asp
 */
 :root {
   --color-active: red;
-  --color-boxes: rgba(255,255,255,.9);
+  --color-boxes: rgba(255,255,255,.91);
   --color-head: saddlebrown;
   --color-link: maroon;
   --color-text: black;
   --text-shadow: 0 1px 0 black;
-  --transition: 451ms;
+  --transition: 911ms;
 }
 body {
   background-blend-mode: luminosity;
@@ -40,9 +40,7 @@ main {
   color: var(--color-text);
 }
 main b,
-main dfn,
 main dt,
-main mark,
 main strong {
   background: none;
   color: var(--color-active);
@@ -53,11 +51,7 @@ main figure {
   border-color: var(--color-head);
 }
 main h1,
-main h2,
-main h3,
-main h4,
-main h5,
-main h6 {
+main h2 {
   border-color: var(--color-head);
   color: var(--color-head);
   text-shadow: var(--text-shadow);
@@ -65,7 +59,6 @@ main h6 {
 /* color nav */
 nav {
   background: var(--color-boxes);
-  border-color: var(--color-head);
 }
 nav a {
   border-color: transparent;
@@ -76,7 +69,6 @@ nav a[href="#"] {
 /* color others */
 #icons {
   background: var(--color-boxes);
-  border-color: var(--color-head);
 }
 #icons img {
   background: white;

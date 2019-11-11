@@ -10,9 +10,7 @@ summary::-webkit-details-marker {
   display: none;
 }
 /* display main */
-main cite,
-main iframe,
-main .gallery {
+main cite {
   display: block;
 }
 /* display nav */
