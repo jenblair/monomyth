@@ -21,6 +21,7 @@ main figure {
   font-family: Georgia, serif;
 }
 main b,
+main dfn,
 main dt,
 main strong {
   font-style: normal;

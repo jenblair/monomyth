@@ -38,6 +38,7 @@ main {
   color: var(--color-text);
 }
 main b,
+main dfn,
 main dt,
 main strong {
   background: none;
