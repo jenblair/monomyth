@@ -8,9 +8,9 @@ body {
   grid-template-areas:
     'nav'
     'main'
-    'jump'
     'icons'
-    'klf';
+    'klf'
+    'jump';
   grid-template-columns: minmax(0,1fr);
   grid-template-rows: auto 1fr auto auto auto;
 }
@@ -25,6 +25,8 @@ nav {
 }
 #jump {
   grid-area: jump;
+  position: sticky;
+  bottom: 0;
 }
 #klf {
   grid-area: klf;
