@@ -1,5 +1,6 @@
 ASAP:
   - examples: convert .txt -> .html
+  - check nav style
 
 MEDIA:
   - favicon.ico: bowling ball hitting pins
@@ -8,6 +9,3 @@ MEDIA:
 PAGES:
   - index: explain examples/ folder
   - not_found: Mark It Zero? empty briefcase? Dude's car?
-
-STYLES:
-  - color: link color?
