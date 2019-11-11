@@ -16,7 +16,7 @@ main figure {
   border-top: var(--border);
   border-bottom: var(--border);
 }
-main h2,
+main h1,
 main hr {
   border: none;
   border-bottom: var(--border);
