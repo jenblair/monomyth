@@ -3,10 +3,11 @@ Color coordination for all elements.
 https://www.w3schools.com/css/css_colors.asp
 */
 :root {
-  --color-active: red;
+  --color-active: #d00;
   --color-boxes: rgba(255,255,255,.91);
   --color-link: saddlebrown;
   --color-text: black;
+  --text-shadow: 0 1px 0 black;
 }
 body {
   background-blend-mode: luminosity;
@@ -39,7 +40,6 @@ main b,
 main dfn,
 main dt,
 main strong {
-  background: none;
   color: var(--color-active);
 }
 main blockquote,
@@ -51,19 +51,18 @@ nav {
   background: var(--color-boxes);
 }
 nav a {
-  border-color: transparent;
+  text-decoration: none;
+  text-shadow: var(--text-shadow);
 }
 nav a[href="#"] {
   color: var(--color-active);
 }
 /* color others */
-#icons {
+#icons,
+#jump,
+#klf {
   background: var(--color-boxes);
 }
 #icons img {
   background: white;
-}
-#jump,
-#klf {
-  background: var(--color-boxes);
 }
