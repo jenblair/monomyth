@@ -5,23 +5,13 @@ https://www.w3schools.com/css/css_display_visibility.asp
 body {
   display: grid;
 }
-/* Chrome hack */
-summary::-webkit-details-marker {
-  display: none;
-}
 /* display main */
 main cite {
   display: block;
 }
 /* display nav */
 nav a,
-nav details,
-nav summary {
-  display: inline-block;
-}
-nav a[rel="home"],
-nav details > details,
-nav details summary ~ a {
+nav details {
   display: block;
 }
 /* display others */
