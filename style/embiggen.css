@@ -3,9 +3,9 @@ Margin, padding, and size in relative units: em, rem, vh, etc.
 https://www.w3schools.com/css/css_units.asp
 */
 :root {
-  --marge: .75rem auto;
-  --padme: .1rem .2rem;
-  --puffy: .5rem 2rem;
+  --marge: 1.5rem auto;
+  --padme: .25rem .5rem;
+  --puffy: 1rem 2rem;
 }
 body {
   margin: .5rem auto 0 auto;
@@ -22,14 +22,13 @@ main figure {
   margin: var(--marge);
   padding: var(--puffy);
 }
-main dt {
+main dt,
+main p {
   margin: var(--marge);
 }
 /* embiggen nav */
-nav,
-nav a,
-nav details {
-  padding: var(--padme);
+nav {
+  padding: var(--puffy);
 }
 nav summary {
   width: 100%;
@@ -40,15 +39,12 @@ nav summary {
 }
 #icons img {
   height: 1.5rem;
-  margin: .25rem .75rem;
+  margin: 0 1rem;
   width: 1.5rem;
-}
-#jump {
-  padding: var(--padme);
 }
 #jump a {
   margin: 0 1rem;
 }
 #klf {
-  padding: var(--puffy);
+  padding: var(--padme);
 }

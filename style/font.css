@@ -3,16 +3,16 @@ Font family, size, weight, etc.
 https://www.w3schools.com/css/css_font.asp
 */
 html {
-  font-family: "Courier New", Courier, monospace;
+  font-family: Courier, monospace;
   font-size: calc(8px + 1vw);
   font-style: normal;
   font-variant: normal;
   font-weight: normal;
   line-height: 1.5;
 }
-@media all and (min-width: 800px) {
+@media all and (min-width: 700px) {
   html {
-    font-size: 16px;
+    font-size: 15px;
   }
 }
 /* font main */
@@ -32,16 +32,16 @@ main dd::before {
 }
 /* font nav */
 nav {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   font-variant: small-caps;
-  font-weight: bold;
+  font-weight: bolder;
   text-transform: capitalize;
 }
 nav a {
   text-decoration: none;
 }
 nav a[rel="home"] {
-  font-size: 2rem;
+  font-size: 2.5rem;
   line-height: 1;
   text-transform: none;
 }
