@@ -3,36 +3,28 @@ Border type, thickness, radius, etc.
 https://www.w3schools.com/css/css_border.asp
 */
 :root {
-  --border: double;
+  --border: 2px double;
 }
-body a img,
-body details {
+body a img {
   border: var(--border);
 }
 /* border main */
-main,
 main blockquote,
 main figure,
-main h1,
-main hr {
+main h2 {
   border-bottom: var(--border);
   border-top: var(--border);
 }
 /* border nav */
-nav,
-nav a,
-nav details {
+nav summary {
   border-bottom: var(--border);
   border-top: var(--border);
 }
 /* border others */
-#icons,
-#jump,
-#klf {
+#icons a img {
+  border-radius: 1em;
+}
+#jump {
   border-bottom: var(--border);
   border-top: var(--border);
-}
-#icons a img {
-  border: var(--border);
-  border-radius: 1em;
 }
