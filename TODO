@@ -1,6 +1,7 @@
 ASAP:
+  - id for each <h1>
+  - fix <nav> style
   - examples: convert .txt -> .html
-  - check nav style
 
 MEDIA:
   - favicon.ico: bowling ball hitting pins
