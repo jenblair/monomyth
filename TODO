@@ -1,6 +1,5 @@
 ASAP:
-  - add examples/my_cousin_vinny.html
-  - add examples/the_matrix.html
+  - remove .txt examples
 
 MEDIA:
   - favicon.ico: bowling ball hitting pins
@@ -8,5 +7,4 @@ MEDIA:
 
 PAGES:
   - index: explain examples/ folder
-  - not_found: Mark It Zero? empty briefcase? Dude's car?
-  - examples/bowling.html ?
+  - not_found: Mark It Zero + gutterball
