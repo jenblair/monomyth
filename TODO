@@ -1,10 +1,9 @@
 ASAP:
-  - remove .txt examples
+  - favicon.ico: bowling ball hitting pins
+  - index: explain examples/ folder
 
 MEDIA:
-  - favicon.ico: bowling ball hitting pins
   - wheel pic at end of template and each example
 
 PAGES:
-  - index: explain examples/ folder
   - not_found: Mark It Zero + gutterball
