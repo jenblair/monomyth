@@ -1,8 +1,11 @@
 ASAP:
-  - not_found: Mark It Zero + gutterball
+  - update page options
 
 EXAMPLES:
   - Inception
 
 MEDIA:
   - wheel pic at end of template and each example
+
+PAGES:
+  - not_found: Mark It Zero + gutterball
