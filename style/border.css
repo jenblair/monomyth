@@ -1,6 +1,6 @@
 /* border */
 :root {
-  --border: 2px double;
+  --border: double;
 }
 body a img {
   border: var(--border);
