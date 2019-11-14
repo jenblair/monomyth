@@ -1,7 +1,4 @@
-/*
-Color coordination for all elements.
-https://www.w3schools.com/css/css_colors.asp
-*/
+/* color */
 :root {
   --color-active: #d00;
   --color-boxes: rgba(255,255,255,.91);

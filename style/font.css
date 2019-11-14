@@ -1,7 +1,4 @@
-/*
-Font family, size, weight, etc.
-https://www.w3schools.com/css/css_font.asp
-*/
+/* font */
 html {
   font-family: Courier, monospace;
   font-size: calc(8px + 1vw);

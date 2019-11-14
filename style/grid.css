@@ -1,7 +1,4 @@
-/*
-Grid layout for each page.
-https://www.w3schools.com/css/css_grid.asp
-*/
+/* grid */
 body {
   grid-column-gap: 0;
   grid-row-gap: .5rem;
