@@ -13,6 +13,9 @@ main figure {
   margin: var(--marge);
   padding: var(--padme);
 }
+main dd {
+  margin: 1em 0;
+}
 main dt,
 main p {
   margin: var(--marge);
