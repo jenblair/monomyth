@@ -45,7 +45,15 @@ nav a[rel="home"] {
   line-height: 1;
   text-transform: none;
 }
+nav details {
+  font-size: 1.25rem;
+}
 /* font others */
+#jump {
+  font-variant: small-caps;
+  font-weight: bolder;
+  text-transform: capitalize;
+}
 #jump a {
   text-decoration: none;
 }
