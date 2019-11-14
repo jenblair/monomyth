@@ -51,6 +51,9 @@ nav a[href="#"] {
 nav details {
   background: var(--color-boxes);
 }
+nav details a {
+  text-shadow: none;
+}
 /* color others */
 #icons {
   background: var(--color-boxes);
