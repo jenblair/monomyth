@@ -1,5 +1,5 @@
 ASAP:
-  - favicon.ico: bowling ball hitting pins
+  - upload
 
 MEDIA:
   - wheel pic at end of template and each example
@@ -8,5 +8,4 @@ PAGES:
   - not_found: Mark It Zero + gutterball
 
 STYLE:
-  - distinct <nav> colors?
-  - <nav> borders?
+  - <nav> borders, colors, font ?
