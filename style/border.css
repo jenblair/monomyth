@@ -16,7 +16,7 @@ main h2 {
   border-top: var(--border);
 }
 /* border nav */
-nav summary {
+nav details {
   border-bottom: var(--border);
   border-top: var(--border);
 }
