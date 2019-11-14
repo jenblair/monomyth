@@ -10,17 +10,10 @@ main cite {
   display: block;
 }
 /* display nav */
-nav a,
-nav details {
+nav a {
   display: block;
 }
 /* display others */
-#icons img {
-  display: inline-block;
-}
-#jump a {
-  display: inline-block;
-}
 #klf address {
   display: block;
 }

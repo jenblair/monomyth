@@ -15,7 +15,6 @@ body {
   background-color: burlywood;
   background-image: url("media/baltimorebowling.jpg");
   background-position: center top;
-  background-repeat: repeat;
   color: var(--color-text);
 }
 body a,
@@ -32,7 +31,9 @@ body summary:active {
   color: var(--color-active);
 }
 /* color main */
-main {
+main,
+main blockquote,
+main figure {
   background: var(--color-boxes);
   color: var(--color-text);
 }
@@ -41,10 +42,6 @@ main dfn,
 main dt,
 main strong {
   color: var(--color-active);
-}
-main blockquote,
-main figure {
-  background: var(--color-boxes);
 }
 /* color nav */
 nav a {
